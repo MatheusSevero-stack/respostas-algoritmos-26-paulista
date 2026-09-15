@@ -7,11 +7,17 @@ ex (a indicação que é a resposta de x questão) 4 (por se tratar de um exerc�
 Caso queira salvar os arquivos para realizar testes pessoais, ou editar como queira, segue o passo a passo
 
 Baixe o Git pelo site https://git-scm.com
+
 Crie uma pasta na área de trabalho
+
 Digite "cmd" na barra de endereço da pasta
+
 Isso abrirá um cmd direcionado especialmente àquela pasta
+
 Escreva no cmd:
+
 git clone https://github.com/MatheusSevero-stack/respostas-algoritmos-26-paulista.git
+
 Isso baixa o projeto inteiro
 
 SEMPRE antes de começar a mexer no projeto, escreva no cmd:
