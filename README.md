@@ -30,8 +30,13 @@ git pull  -    atualiza o seu projeto com as mudanças feitas
 Lembrete importante!
 
 A estrutura do código está salva para uma pasta pessoal minha, com uma opção de nome de arquivo minha, caso você tenha criado uma pasta com um nome diferente, não esqueca de trocar na parte do "package"
+
 Ex:
+
 Minha pasta que está salva os exercícios se chama "respostasAlgoritmos26Paulista", logo, no começo do código eu preciso colocar "package respostasAlgoritmos26Paulista;" para funcionar.
+
 Mas, por algum motivo, você por opção pessoal decide criar a pasta nomeada de "jorge" para salvar os exercícios feitos, logo, ao invés de "package respostasAlgoritmos26Paulista;", você deve colocar "package jorge;"
+
 A pasta que importa é a que guarda os arquivos, não a inicial.
+
 Qualquer dúvida, sinta-se a vontade de postar no GitHub como issue do projeto, farei o máximo para esclarecer qualquer dúvida que surja!
